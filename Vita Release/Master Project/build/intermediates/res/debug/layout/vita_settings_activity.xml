@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Black"
+    android:orientation="vertical" >
+
+    <Spinner
+    android:id="@+id/soundFileTypeSpinner"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:drawable/btn_dropdown"
+    android:entries="@array/AudioTypes"
+    android:spinnerMode="dropdown" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_sign_out"
+        android:id="@+id/sign_out_button"
+        android:layout_gravity="center_horizontal|bottom" />
+</LinearLayout>
+<!-- From: file:/C:/Users/Jonathan/Desktop/Vita%20Release/Master%20Project/res/layout/vita_settings_activity.xml -->

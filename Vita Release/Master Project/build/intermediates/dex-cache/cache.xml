@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Jonathan\Desktop\Vita Release\Master Project\build\intermediates\pre-dexed\debug\resty-0.3.2-2222a9eb14d355312c71b60868276e38400ab3c2.jar"
+        jar="C:\Users\Jonathan\Desktop\Vita Release\Master Project\libs\resty-0.3.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1c83ff064daf6ecf736cff3b0012ffbacabefd7c"/>
+    <item
+        dex="C:\Users\Jonathan\Desktop\Vita Release\Master Project\build\intermediates\pre-dexed\debug\android-support-v4-d8cbda7e9e026184c1cd5925804f35c81ba13dc9.jar"
+        jar="C:\Users\Jonathan\Desktop\Vita Release\Master Project\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cb6883d96005bc85b3e868f204507ea5b4fa9bbf"/>
+    <item
+        dex="C:\Users\Jonathan\Desktop\Vita Release\Master Project\build\intermediates\pre-dexed\debug\commons-io-2.4-cd1ee099c20b5bc1004663d71fe8f0288d5a53d8.jar"
+        jar="C:\Users\Jonathan\Desktop\Vita Release\Master Project\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad"/>
+
+</pre-dex-items>

@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res" >
+            <file
+                name="background_gradient"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable\background_gradient.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="back_drop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable\back_drop.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="blank"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable\blank.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable\button.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable\drawer_shadow.9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable\ic_launcher.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_logo"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable\ic_logo.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_user_pic"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable\ic_user_pic.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="logo3"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable\logo3.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="phone2"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable\phone2.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="red"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable\red.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="redstop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable\redstop.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="splash4"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable\splash4.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="add_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\add_button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="back_drop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\back_drop.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="camera_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\camera_button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\drawer_shadow.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="gallery_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\gallery_button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\ic_drawer.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_logo"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\ic_logo.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_name"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\ic_menu_name.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_user_pic"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\ic_user_pic.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="images"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\images.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="img_stop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\img_stop.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="logo3"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\logo3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="microphone"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\microphone.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="phone2"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\phone2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="play_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\play_button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="red"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\red.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="reddd"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\reddd.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="redstop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\redstop.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="stop_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\stop_button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="stop_image"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\stop_image.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="th"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-hdpi\th.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="add_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\add_button.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="back_drop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\back_drop.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\button.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="camera_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\camera_button.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\drawer_shadow.9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="gallery_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\gallery_button.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\ic_drawer.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_logo"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\ic_logo.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_name"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\ic_menu_name.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_user_pic"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\ic_user_pic.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="img_stop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\img_stop.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="microphone"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\microphone.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="phone2"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\phone2.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="play_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\play_button.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="red"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\red.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="redstop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\redstop.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="stop_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\stop_button.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="stop_image"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-mdpi\stop_image.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="add_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\add_button.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="back_drop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\back_drop.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\button.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="camera_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\camera_button.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\drawer_shadow.9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="gallery_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\gallery_button.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\ic_drawer.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_logo"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\ic_logo.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_name"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\ic_menu_name.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_user_pic"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\ic_user_pic.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="img_stop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\img_stop.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="microphone"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\microphone.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="phone2"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\phone2.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="play_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\play_button.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="red"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\red.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="redstop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\redstop.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="stop_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\stop_button.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="stop_image"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xhdpi\stop_image.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="add_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\add_button.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="back_drop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\back_drop.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\button.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="camera_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\camera_button.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\drawer_shadow.9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="gallery_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\gallery_button.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\ic_drawer.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_logo"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\ic_logo.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_name"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\ic_menu_name.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_user_pic"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\ic_user_pic.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="img_stop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\img_stop.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="microphone"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\microphone.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="phone2"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\phone2.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="play_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\play_button.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="red"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\red.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="redstop"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\redstop.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="stop_button"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\stop_button.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="stop_image"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\drawable-xxhdpi\stop_image.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_register"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\layout\activity_register.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_splash"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\layout\activity_splash.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_vita_login"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\layout\activity_vita_login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_diary_record"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\layout\fragment_diary_record.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_home"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\layout\fragment_home.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_main"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\layout\fragment_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_my_diary"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\layout\fragment_my_diary.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_navigation_drawer"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\layout\fragment_navigation_drawer.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="home_post"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\layout\home_post.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="my_diary_adapter"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\layout\my_diary_adapter.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sounds_and_pictures"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\layout\sounds_and_pictures.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="vita_settings_activity"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\layout\vita_settings_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="file_menu"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\menu\file_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="global"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\menu\global.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="register"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\menu\register.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="splash"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\menu\splash.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="splash_screen"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\menu\splash_screen.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="vita_login"
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\menu\vita_login.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\values\attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="ButtonBarContainerTheme" >
+                    <attr
+                        name="metaButtonBarStyle"
+                        format="reference" />
+                    <attr
+                        name="metaButtonBarButtonStyle"
+                        format="reference" />
+                </declare-styleable>
+            </file>
+            <file
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\values\Color.xml"
+                qualifiers="" >
+                <color name="White" >#FFF
+                </color>
+                <color name="Red" >#800000
+                </color>
+                <color name="Blue" >#33CCFF
+                </color>
+                <color name="Black" >#000
+                </color>
+            </file>
+            <file
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\values\colors.xml"
+                qualifiers="" >
+                <color name="black_overlay" >#66000000
+                </color>
+            </file>
+            <file
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="navigation_drawer_width" >240dp
+                </dimen>
+                <dimen name="welcome" >24dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\values\integers.xml"
+                qualifiers="" >
+                <integer name="MAX_NAME_SIZE" >
+20
+                </integer>
+            </file>
+            <file
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\values\strings.xml"
+                qualifiers="" >
+                <string name="img_stop" >stop
+                </string>
+                <string name="second_line" >Description
+                </string>
+                <string name="playButton" >Play Button
+                </string>
+                <string name="a_item_name" >Delete
+                </string>
+                <string name="add" >Add Button
+                </string>
+                <string name="file_icon" >File Icon
+                </string>
+                <string name="title_activity_splash" >SplashActivity
+                </string>
+                <string name="title_activity_display_message" >My Message
+                </string>
+                <string name="button_stoprecord" >Stop Recording
+                </string>
+                <string name="button_record" >Record
+                </string>
+                <string name="user_pic" >Profile_Pic
+                </string>
+                <string name="file_name" >Defaul Name
+                </string>
+                <string name="dummy_button" >Dummy Button
+                </string>
+                <string name="edit_message" >Enter a message
+                </string>
+                <string name="Capture" >Capture
+                </string>
+                <string name="button_send2" >Stop
+                </string>
+                <string name="title_activity_main" >MainActivity
+                </string>
+
+                <string-array name="AudioTypes" >
+                    <item>
+3GP
+                    </item>
+                    <item>
+MPEG-4
+                    </item>
+                    <item>
+AMR_NB
+                    </item>
+                </string-array>
+
+                <string name="action_example" >Example action
+                </string>
+                <string name="welcome" >Welcome to Vita Sound Diary
+                </string>
+                <string name="hello_blank_fragment" >Hello blank fragment
+                </string>
+                <string name="button_sign_out" >Sign out
+                </string>
+                <string name="mic_rec" >Mic Pic
+                </string>
+                <string name="navigation_drawer_close" >Close navigation drawer
+                </string>
+                <string name="timerVal" >00:00
+                </string>
+                <string name="title_activity_splash_screen" >SplashScreenActivity
+                </string>
+                <string name="logo" >OurLogo
+                </string>
+                <string name="dummy_content" >DUMMY\nCONTENT
+                </string>
+
+                <color name="white" >#FFFFFF
+                </color>
+
+                <string name="button_send" >Play
+                </string>
+
+                <color name="blueish2" >#3300F0
+                </color>
+
+                <string name="main_no_items" >No posts to display
+                </string>
+
+                <color name="black" >#000000
+                </color>
+
+                <string name="img_play" >play button
+                </string>
+                <string name="img_recordinglight" >red recording light
+                </string>
+                <string name="postButton" >Post
+                </string>
+
+                <color name="blueish" >#33CCFF
+                </color>
+                <color name="transperent" >#00FFFFFF
+                </color>
+
+                <string name="b_item_name" >Rename
+                </string>
+                <string name="navigation_drawer_open" >Open navigation drawer
+                </string>
+                <string name="hello" >Hello World
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="img_record" >record
+                </string>
+                <string name="img_microphone" >microphone
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >Vita Sound Diary
+                </string>
+                <string name="User_Name" >Paul De Fault
+                </string>
+                <string name="save_button" >Save Recording
+                </string>
+                <string name="c_item_name" >Share
+                </string>
+                <string name="splashdescription" >the background logo
+                </string>
+
+                <color name="cream" >#FDF5C9
+                </color>
+
+                <string name="title_section1" >Home
+                </string>
+                <string name="title_section3" >Entry Recorder
+                </string>
+                <string name="title_section2" >My Diary
+                </string>
+            </file>
+            <file
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\values\strings_activity_register.xml"
+                qualifiers="" >
+                <string name="action_sign_in_short1" >Sign in
+                </string>
+                <string name="prompt_password1" >Password
+                </string>
+                <string name="error_field_required1" >This field is required
+                </string>
+                <string name="title_activity_register" >Register
+                </string>
+                <string name="error_invalid_password1" >This password is too short
+                </string>
+                <string name="userN" >Username
+                </string>
+                <string name="error_incorrect_password1" >This password is incorrect
+                </string>
+                <string name="prompt_email1" >Email
+                </string>
+                <string name="error_password_mismatch" >Passwords do not match
+                </string>
+                <string name="action_forgot_password1" >Recover lost password
+                </string>
+                <string name="login_progress_signing_in1" >Registering
+                </string>
+                <string name="error_invalid_email1" >This email address is invalid
+                </string>
+            </file>
+            <file
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\values\strings_activity_settings.xml"
+                qualifiers="" >
+                <string name="pref_header_notifications" >Notifications
+                </string>
+                <string name="pref_title_system_sync_settings" >System sync settings
+                </string>
+                <string name="pref_default_display_name" >John Smith
+                </string>
+                <string name="pref_description_social_recommendations" >Recommendations for people to contact based on your message history
+                </string>
+                <string name="pref_title_add_friends_to_messages" >Add friends to messages
+                </string>
+                <string name="pref_title_vibrate" >Vibrate
+                </string>
+                <string name="pref_header_data_sync" >Data &amp; sync
+                </string>
+                <string name="pref_title_sync_frequency" >Sync frequency
+                </string>
+
+                <string-array name="pref_example_list_values" >
+                    <item>
+1
+                    </item>
+                    <item>
+0
+                    </item>
+                    <item>
+-1
+                    </item>
+                </string-array>
+
+                <string name="title_activity_settings" >Settings
+                </string>
+
+                <string-array name="pref_example_list_titles" >
+                    <item>
+Always
+                    </item>
+                    <item>
+When possible
+                    </item>
+                    <item>
+Never
+                    </item>
+                </string-array>
+
+                <string name="pref_ringtone_silent" >Silent
+                </string>
+                <string name="pref_title_social_recommendations" >Enable social recommendations
+                </string>
+                <string name="pref_title_ringtone" >Ringtone
+                </string>
+
+                <string-array name="pref_sync_frequency_titles" >
+                    <item>
+15 minutes
+                    </item>
+                    <item>
+30 minutes
+                    </item>
+                    <item>
+1 hour
+                    </item>
+                    <item>
+3 hours
+                    </item>
+                    <item>
+6 hours
+                    </item>
+                    <item>
+Never
+                    </item>
+                </string-array>
+
+                <string name="pref_header_general" >General
+                </string>
+                <string name="pref_title_display_name" >Display name
+                </string>
+
+                <string-array name="pref_sync_frequency_values" >
+                    <item>
+15
+                    </item>
+                    <item>
+30
+                    </item>
+                    <item>
+60
+                    </item>
+                    <item>
+180
+                    </item>
+                    <item>
+360
+                    </item>
+                    <item>
+-1
+                    </item>
+                </string-array>
+
+                <string name="pref_title_new_message_notifications" >New message notifications
+                </string>
+            </file>
+            <file
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\values\strings_activity_vita_login.xml"
+                qualifiers="" >
+                <string name="prompt_email" >Email
+                </string>
+                <string name="action_sign_in_short" >Sign in
+                </string>
+                <string name="error_field_required" >This field is required
+                </string>
+                <string name="action_sign_in_register" >register
+                </string>
+                <string name="error_incorrect_password" >This password is incorrect
+                </string>
+                <string name="action_sign_in" >Log In
+                </string>
+                <string name="prompt_password" >Password
+                </string>
+                <string name="error_invalid_password" >This password is too short
+                </string>
+                <string name="title_activity_vita_login" >Sign in
+                </string>
+                <string name="action_forgot_password" >Recover lost password
+                </string>
+                <string name="error_invalid_email" >This email address is invalid
+                </string>
+                <string name="login_progress_signing_in" >Signing in…
+                </string>
+            </file>
+            <file
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+
+                <style name="LoginFormContainer" >
+                    <item name="android:layout_width">
+match_parent
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:padding">
+16dp
+                    </item>
+                </style>
+
+                <style name="ButtonBarButton" />
+
+                <style name="ButtonBar" >
+                    <item name="android:paddingLeft">
+2dp
+                    </item>
+                    <item name="android:paddingTop">
+5dp
+                    </item>
+                    <item name="android:paddingRight">
+2dp
+                    </item>
+                    <item name="android:paddingBottom">
+0dp
+                    </item>
+                    <item name="android:background">
+@android:drawable/bottom_bar
+                    </item>
+                </style>
+
+                <style
+                    name="FullscreenTheme"
+                    parent="android:Theme.NoTitleBar" >
+                    <item name="android:windowContentOverlay">
+@null
+                    </item>
+                    <item name="android:windowBackground">
+@null
+                    </item>
+                    <item name="metaButtonBarStyle">
+@style/ButtonBar
+                    </item>
+                    <item name="metaButtonBarButtonStyle">
+@style/ButtonBarButton
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\build\generated\res\rs\debug" />
+        <source path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Jonathan\Desktop\Vita Release\Master Project\build-types\debug\res" />
+    </dataSet>
+
+</merger>

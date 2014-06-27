@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="title_activity_register">Register</string>
+
+    <!-- Strings related to Register -->
+    <string name="prompt_email1">Email</string>
+    <string name="prompt_password1">Password</string>
+    
+    <string name="action_sign_in_short1">Sign in</string>
+    <string name="action_forgot_password1">Recover lost password</string>
+    <string name="login_progress_signing_in1">Registering</string>
+    <string name="error_invalid_email1">This email address is invalid</string>
+    <string name="error_invalid_password1">This password is too short</string>
+    <string name="error_incorrect_password1">This password is incorrect</string>
+    <string name="error_field_required1">This field is required</string>
+    <string name="userN">Username</string>
+<string name="error_password_mismatch">Passwords do not match</string>
+</resources>

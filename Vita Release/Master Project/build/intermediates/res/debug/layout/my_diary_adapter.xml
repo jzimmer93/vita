@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="156dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/Blue">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1"
+        android:background="@color/Blue"
+        android:layout_gravity="top">
+
+        <ImageView
+            android:layout_width="@android:dimen/thumbnail_width"
+            android:layout_height="match_parent"
+            android:id="@+id/post_pic"
+            android:src="@drawable/ic_user_pic"
+            android:scaleType="fitXY"
+            android:padding="5dp"
+            android:layout_gravity="left" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/file_name"
+                android:id="@+id/file_name"
+                android:gravity="center|top"
+                android:layout_gravity="bottom"
+                android:typeface="normal"
+                android:background="@color/White"
+                android:padding="5dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentStart="true"
+                android:singleLine="true"
+                android:maxLength="20" />
+
+            <ImageView
+                android:layout_width="@android:dimen/thumbnail_height"
+                android:layout_height="@android:dimen/thumbnail_height"
+                android:id="@+id/imageView2"
+                android:src="@android:drawable/ic_media_play"
+                android:layout_above="@+id/file_name"
+                android:layout_centerHorizontal="true" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/C:/Users/Jonathan/Desktop/Vita%20Release/Master%20Project/res/layout/my_diary_adapter.xml -->

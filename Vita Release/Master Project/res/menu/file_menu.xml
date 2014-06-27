@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/a_item"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:showAsAction="withText|always"
+        android:title="@string/a_item_name" />
+ 
+    <!--<item android:id="@+id/b_item"-->
+        <!--android:icon="@android:drawable/ic_menu_edit"-->
+        <!--android:showAsAction="withText|always"-->
+	<!--android:title="@string/b_item_name" />-->
+
+    <item android:id="@+id/c_item"
+        android:icon="@android:drawable/ic_menu_upload"
+        android:showAsAction="withText|always"
+        android:title="@string/c_item_name" />
+
+</menu>
